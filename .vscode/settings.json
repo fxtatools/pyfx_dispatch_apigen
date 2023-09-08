@@ -1,0 +1,11 @@
+{
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.autopep8"
+    },
+    "python.formatting.provider": "none",
+    "autopep8.args": [
+        "--ignore",
+        "E266,E226,E24,W50,W690,E501"
+    ],
+    "editor.tabSize": 8
+}
