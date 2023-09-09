@@ -6,14 +6,6 @@ APIGen for PyFX Dispatch
 - GNU Make
 - Python 3
 
-For the project Makefile, the `PYTHON` Makefile variable should be set
-to the relative or absolute pathname of the Python interpreter, if not
-available as `python3` e.g.
-
-```sh
-make env PYTHON=python
-```
-
 For the API Generator, the following dependencies should also be
 installed
 
