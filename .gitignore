@@ -90,3 +90,6 @@ __pycache__
 
 /build
 /files
+
+requirements.local
+requirements.txt
